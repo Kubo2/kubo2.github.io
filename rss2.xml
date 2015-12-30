@@ -4,7 +4,7 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title><![CDATA[Výmenný pobyt v Indii]]></title>
-    <link>http://kubo2.github.io/</link>
+    <link>https://kubo2.github.io/</link>
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     <description><![CDATA[Výmenný pobyt nie je rok v tvojom živote, ale život v jednom roku. Na výmene v Indii som sa o tom sám presvedčil.]]></description>
     <pubDate>Wed, 30 Dec 2015 08:43:09 GMT</pubDate>
@@ -12,8 +12,8 @@
     
     <item>
       <title><![CDATA[went-sleep.php]]></title>
-      <link>http://kubo2.github.io/went-sleep-php/</link>
-      <guid>http://kubo2.github.io/went-sleep-php/</guid>
+      <link>https://kubo2.github.io/went-sleep-php/</link>
+      <guid>https://kubo2.github.io/went-sleep-php/</guid>
       <pubDate>Wed, 30 Dec 2015 07:28:41 GMT</pubDate>
       <description>
       <![CDATA[<p><code>went-sleep.php</code> is a little utility written in PHP, which is supposed to <strong>help me with going regularly early to sleep<]]>
@@ -36,7 +36,7 @@
 <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ ~/went-sleep.php --confgen</span><br><span class="line">Configuration defaults successfully exported to a new file ~/went-sleep.ini</span><br></pre></td></tr></table></figure>
 <h2 id="So_where_u2019s_it_3F"><a href="#So_where_u2019s_it_3F" class="headerlink" title="So where’s it?"></a>So where’s it?</h2><p>Yet only in my dreams. :-<em>)</em> But soon I will get it to work, promise.</p>
 ]]></content:encoded>
-      <comments>http://kubo2.github.io/went-sleep-php/#disqus_thread</comments>
+      <comments>https://kubo2.github.io/went-sleep-php/#disqus_thread</comments>
     </item>
     
   </channel>
