@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[Výmenný pobyt v Indii]]></title>
+    <link>http://kubo2.github.io/</link>
+    <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
+    <description><![CDATA[Výmenný pobyt nie je rok v tvojom živote, ale život v jednom roku. Na výmene v Indii som sa o tom sám presvedčil.]]></description>
+    <pubDate>Wed, 30 Dec 2015 08:43:09 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title><![CDATA[went-sleep.php]]></title>
+      <link>http://kubo2.github.io/went-sleep-php/</link>
+      <guid>http://kubo2.github.io/went-sleep-php/</guid>
+      <pubDate>Wed, 30 Dec 2015 07:28:41 GMT</pubDate>
+      <description>
+      <![CDATA[<p><code>went-sleep.php</code> is a little utility written in PHP, which is supposed to <strong>help me with going regularly early to sleep<]]>
+      </description>
+      <content:encoded><![CDATA[<p><code>went-sleep.php</code> is a little utility written in PHP, which is supposed to <strong>help me with going regularly early to sleep</strong><br>during the extraordinary days (those are, at least for me, mostly when I write some code which I am totally excited<br>with, so it happens to me that I am finishing and further improving it long to the night – often 2 am or 3 am).</p>
+<h2 id="Busy_mind_doesn_u2019t_allow_you_sleep"><a href="#Busy_mind_doesn_u2019t_allow_you_sleep" class="headerlink" title="Busy mind doesn’t allow you sleep"></a>Busy mind doesn’t allow you sleep</h2><p>Running <code>went-sleep.php</code> should be the last thing, except brushing your teeth and tidying away the computer, which is<br>done before you go to sleep. Why? If you were doing something long to the night, you (and your mind) got pretty<br>engaged into it. So now even if you switch off the lights, lie in the bed and close your eyes, your mind will stay busy<br>collecting and ordering the <strong>information about what you just right now finished doing.</strong> So you won’t be able to sleep<br>and you will keep getting thoughts about how to improve the stuff you have just finished and, what’s worse, you will<br>actively start thinking and participate in solving the ideas in these thoughts!</p>
+<p>That’s when you should run <code>went-sleep.php</code>. You will issue a simple command (<code>went-sleep.php</code>), which you should type<br>to the console yourself – to strenghten your whole concentration to it. The command runs and greets you a <em>Goodnight</em>.</p>
+<p>Now that your mind is fully concentrated on what you’ve just done (this time running a simple command), it can<br>easily sort it out and then switch to <em>passive mode</em> (that’s when you’re sleeping; your mind keeps sorting the earlier<br>information from that day but without thoughts).</p>
+<h2 id="Running_it"><a href="#Running_it" class="headerlink" title="Running it"></a>Running it</h2><p>Running <code>went-sleep.php</code> is as simple as running it itself:</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ ~/went-sleep.php</span><br><span class="line">Dark and quite night... Pretty good time to sleep!</span><br><span class="line">Goodnight!</span><br></pre></td></tr></table></figure>
+<p>This simple piece of code records <strong>current UNIX timestamp</strong> at the time of running, which includes current date &amp; time;<br><strong>current timezone</strong> (you can also specify the timezone yourself in the config file, but about that later)<br>and the <strong>current goal</strong> for this day, which is just the time you wanted to regularly get to bed.<br>However, the goal is most often the same, so you can just set it in the config.</p>
+<p>If you need to add an exception to the time you aim go to sleep for a particular day, just add the <code>--goal</code> arg:</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ ~/went-sleep.php --goal <span class="number">12</span>am</span><br><span class="line">So much later today... Sleep well!</span><br></pre></td></tr></table></figure>
+<h3 id="Getting_overview"><a href="#Getting_overview" class="headerlink" title="Getting overview"></a>Getting overview</h3><p>Yet the <code>went-sleep.php</code> script has implemented one convenient way of presenting the recorded data – visualising<br>them in an ASCII graph. You just run:</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ ~/went-sleep.php --at</span><br><span class="line">...</span><br></pre></td></tr></table></figure>
+<p>…and it will show you how much did you achieve your goals overtime.</p>
+<h2 id="Configuration"><a href="#Configuration" class="headerlink" title="Configuration"></a>Configuration</h2><p><code>went-sleep.php</code>‘s configuration is stored in the <code>went-sleep.ini</code> file in the same directory as the script.<br>By default it looks like this:</p>
+<figure class="highlight ini"><table><tr><td class="code"><pre><span class="line"><span class="title">[went-sleep]</span></span><br><span class="line"><span class="setting">timezone=</span><br><span class="line"><span class="value">goal=<span class="number">11</span>pm</span></span></span><br></pre></td></tr></table></figure>
+<p>This is what <code>went-sleep.php</code> has bundled in it. You can export the default config to file using <code>--confgen</code>:</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ ~/went-sleep.php --confgen</span><br><span class="line">Configuration defaults successfully exported to a new file ~/went-sleep.ini</span><br></pre></td></tr></table></figure>
+<h2 id="So_where_u2019s_it_3F"><a href="#So_where_u2019s_it_3F" class="headerlink" title="So where’s it?"></a>So where’s it?</h2><p>Yet only in my dreams. :-<em>)</em> But soon I will get it to work, promise.</p>
+]]></content:encoded>
+      <comments>http://kubo2.github.io/went-sleep-php/#disqus_thread</comments>
+    </item>
+    
+  </channel>
+</rss>
