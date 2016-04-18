@@ -7,8 +7,33 @@
     <link>https://kubo2.github.io/</link>
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     <description><![CDATA[Výmenný pobyt nie je rok v tvojom živote, ale život v jednom roku. Na výmene v Indii som sa o tom sám presvedčil.]]></description>
-    <pubDate>Wed, 30 Dec 2015 11:58:43 GMT</pubDate>
+    <pubDate>Mon, 18 Apr 2016 20:49:34 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title><![CDATA[Beggining of the Exchange Diary]]></title>
+      <link>https://kubo2.github.io/begin-exchange-diary/</link>
+      <guid>https://kubo2.github.io/begin-exchange-diary/</guid>
+      <pubDate>Mon, 18 Apr 2016 20:49:34 GMT</pubDate>
+      <description>
+      <![CDATA[<p>Hi folks,</p>
+<p>I wanted to finally start my exchange “diary” (which is more likely an exchange blog) yet before I return from India, wh]]>
+      </description>
+      <content:encoded><![CDATA[<p>Hi folks,</p>
+<p>I wanted to finally start my exchange “diary” (which is more likely an exchange blog) yet before I return from India, where I am doing my exchange, back to Slovakia.<br>As an exchange student, I made two major mistakes, which you as future exchange students should be aware of, so I will describe them little more.</p>
+<h2 id="A_diary"><a href="#A_diary" class="headerlink" title="A diary"></a>A diary</h2><p>What I regret the most, and what no sane exchange student should not forget, or be lazy, to do, is taking a diary. Firstly when you arrive to your host country, <em>everything</em> will be new to you, you will excited of everything and you will gain lots and lots of experience. Sadly, those days your memories won’t last too long, because there will be constantly coming more and more experiences and discoveries to you. That time, if you don’t take a diary, íf you don’t write down everything immidiately or at least you don’t sit in the evening to make a romance-size note of your lovely passed day, your memories will be lost, or at the best case blurred.</p>
+<p>I went for my exchange irresponsibly if not punishably unprepared and after coming to India I was so excited, that I didn’t even <em>think</em> of taking a diary.</p>
+<p>So the very first rule: Whatever happens, whatever small experience you get in the first months of your exchange, please <strong>take down a note of everything</strong> whatever the fuck happens to you.</p>
+<h2 id="Lot_of_photos"><a href="#Lot_of_photos" class="headerlink" title="Lot of photos"></a>Lot of photos</h2><p>Another thing was, kinda technical in my case, that I didn’t use my money in the right way and again, I must repeat, I went for my exchange absolutely technicaly unprepared – shitty old phone with constantly discharged battery and fucking low quality camera. Because of these circumstances, I wasn’t actually much interested in taking photos – these were most of the time ugly, blurred or shaded. So even things I didn’t take down in my hypothetical diary, nor took I any photos of these (or, if I remember correctly, very few), so all my memories just dissolved. What a hammer.</p>
+<p>The second rule is clear: Nothing electronical you buy before your exchange is more valuable than a <strong>good camera</strong>, or at least smartphone having good camera (later I got one in India itself because of the South India Tour, which I will tell you about once later).</p>
+<h1 id="Conclusion__28TL_3BDR_29"><a href="#Conclusion__28TL_3BDR_29" class="headerlink" title="Conclusion (TL;DR)"></a>Conclusion (TL;DR)</h1><p>Exchange is the most valuable experience in your life. Nothing is more valuable: going until college with As nor your first sex. You will understand this once you’re on and once you return from an exchange. So, don’t waste your exchange year, it is unique and you won’t be able to go through something similar once again. Please:</p>
+<ul>
+<li><em>Take an exchange diary</em>, write down your detailed feelings and experiences.</li>
+<li><em>Take a lot of photos</em> while you find things around you interesting. After a half of your exchange year everything around you will become very normal to you.</li>
+</ul>
+]]></content:encoded>
+      <comments>https://kubo2.github.io/begin-exchange-diary/#disqus_thread</comments>
+    </item>
     
     <item>
       <title><![CDATA[went-sleep.php]]></title>
@@ -18,8 +43,8 @@
       <description>
       <![CDATA[<p><code>went-sleep.php</code> is a little utility written in PHP, which is supposed to <strong>help me with going regularly early to sleep<]]>
       </description>
-      <content:encoded><![CDATA[<p><code>went-sleep.php</code> is a little utility written in PHP, which is supposed to <strong>help me with going regularly early to sleep</strong><br>during the extraordinary days (those are, at least for me, mostly when I write some code which I am totally excited<br>with, so it happens to me that I am finishing and further improving it long to the night – often 2 am or 3 am).</p>
-<h2 id="Busy_mind_doesn_u2019t_allow_you_sleep"><a href="#Busy_mind_doesn_u2019t_allow_you_sleep" class="headerlink" title="Busy mind doesn’t allow you sleep"></a>Busy mind doesn’t allow you sleep</h2><p>Running <code>went-sleep.php</code> should be the last thing, except brushing your teeth and tidying away the computer, which is<br>done before you go to sleep. Why? If you were doing something long to the night, you (and your mind) got pretty<br>engaged into it. So now even if you switch off the lights, lie in the bed and close your eyes, your mind will stay busy<br>collecting and ordering the <strong>information about what you just right now finished doing.</strong> So you won’t be able to sleep<br>and you will keep getting thoughts about how to improve the stuff you have just finished and, what’s worse, you will<br>actively start thinking and participate in solving the ideas in these thoughts! </p>
+      <content:encoded><![CDATA[<p><code>went-sleep.php</code> is a little utility written in PHP, which is supposed to <strong>help me with going regularly early to sleep</strong><br>during the extraordinary days (those are, at least for me, mostly when I write some code which I am totally excited<br>with, so it happens to me that I am finishing and further improving it long to the night – often till 2 am or 3 am).</p>
+<h2 id="Busy_mind_doesn_u2019t_allow_you_sleep"><a href="#Busy_mind_doesn_u2019t_allow_you_sleep" class="headerlink" title="Busy mind doesn’t allow you sleep"></a>Busy mind doesn’t allow you sleep</h2><p>Running <code>went-sleep.php</code> should be the last thing, except brushing your teeth and tidying away the computer, which is<br>done before you go to sleep. Why? If you were doing something long to the night, you (and your mind) got pretty<br>engaged into it. So now even if you switch off the lights, lie in the bed and close your eyes, your mind will stay busy<br><strong>collecting and ordering the information about what you just right now finished doing.</strong> So you won’t be able to sleep<br>and you will keep getting thoughts about how to improve the stuff you have just finished and, what’s worse, you will<br>actively start thinking and participate in solving the ideas in these thoughts! </p>
 <p>That’s when you should run <code>went-sleep.php</code>. You will issue a simple command (<code>went-sleep.php</code>), which you should type<br>to the console yourself – to strenghten your whole concentration to it. The command runs and greets you a <em>Goodnight</em>.</p>
 <p>Now that your mind is fully concentrated on what you’ve just done (this time running a simple command), it can<br>easily sort it out and then switch to <em>passive mode</em> (that’s when you’re sleeping; your mind keeps sorting the earlier<br>information from that day but without thoughts).</p>
 <h2 id="Running_it"><a href="#Running_it" class="headerlink" title="Running it"></a>Running it</h2><p>Running <code>went-sleep.php</code> is as simple as running it itself:</p>
